@@ -84,6 +84,11 @@ Dans le terminal :
   --cd Bureau
   -- python TP1_etdt.py
 L’API sera disponible à l’adresse : http://127.0.0.1:5000
+http://127.0.0.1:5000/students :Envoie une requête au serveur Flask local, sur la route /students
+Décomposition de l’URL
+
+<img width="378" height="198" alt="image" src="https://github.com/user-attachments/assets/b1f7e515-6f9b-41ab-8e24-9d4bf9b4051c" />
+
 
   Étape 2 : Lancer l’application PHP
 Placer le dossier php_projet dans :
