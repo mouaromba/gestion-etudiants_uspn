@@ -36,13 +36,13 @@ L’API traite la demande et retourne une réponse JSON.
 5. Fichier API Flask (situé sur le bureau) :TP1_etdt.py
 
 6. Technologies Utilisées
-Technologie                           Rôle
-Python  ............................. Développement de l’API
-Flask  ............................... Framework Web REST
-PHP    ............................... Client Web
-HTML/CSS ............................. Interface utilisateur
-JSON   ................................ Format d’échange
-XAMPP ................................. Serveur local Apache
+Technologie et rôle
+- Python : Développement de l’API
+- Flask  : Framework Web REST
+- PHP    : Client Web
+- HTML/CSS : Interface utilisateur
+- JSON   : Format d’échange
+- XAMPP  : Serveur local Apache
 
 7. Description de l’API Flask
  Fichier : TP1_etdt.py
