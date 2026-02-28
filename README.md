@@ -35,8 +35,7 @@ L’API traite la demande et retourne une réponse JSON.
 
 5. Fichier API Flask (situé sur le bureau) :TP1_etdt.py
 
-6. Technologies Utilisées
-Technologie et rôle
+6. Technologies Utilisées et rôle
 - Python : Développement de l’API
 - Flask  : Framework Web REST
 - PHP    : Client Web
